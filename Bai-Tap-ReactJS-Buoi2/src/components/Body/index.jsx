@@ -19,7 +19,7 @@ export const ChangeGlasses = () => {
   return (
     <div>
       <div className="relative flex justify-center p-10">
-        <div className="relative w-[15vw]">
+        <div className="relative w-[20vw]">
           <img src="/glassesImage/model.jpg" alt="modal" />
           <ModelWithGlasses selectedGlasses={selectedGlasses} />
 
